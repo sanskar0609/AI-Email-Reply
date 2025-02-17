@@ -16,5 +16,10 @@
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="languagetool-repository" />
+      <option name="name" value="languagetool-repository" />
+      <option name="url" value="https://repo.languagetool.org/artifactory/languagetool-os-release/" />
+    </remote-repository>
   </component>
 </project>
