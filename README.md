@@ -40,3 +40,15 @@ Copy the generated API key and save it.
 3. Add to Spring Boot Properties
    gemini.api.url=https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent
    gemini.api.key=YOUR_GENERATED_API_KEY
+
+
+# 🐳 Backend Docker Image - Free to Use  
+
+## 🚀 Overview  
+I have pushed the backend to **Docker Hub**, and you can run it directly without needing to pull it manually.  
+
+## 📥 How to Run  
+Run the following command to start the backend container:  
+```sh
+docker run -d -p 8080:80 sanskar0609/ai-email
+
